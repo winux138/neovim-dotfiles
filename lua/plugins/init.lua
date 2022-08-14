@@ -30,6 +30,7 @@ return require('packer').startup(function()
 	use 'rmehri01/onenord.nvim'
 	use {'frenzyexists/aquarium-vim', as = 'aquarium'}
 	use 'https://github.com/Canop/patine'
+    use 'robertmeta/nofrils'
 
 	use 'vim-airline/vim-airline'
 end)
