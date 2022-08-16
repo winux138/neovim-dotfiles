@@ -32,5 +32,5 @@ return require('packer').startup(function()
 	use 'https://github.com/Canop/patine'
     use 'robertmeta/nofrils'
 
-	use 'vim-airline/vim-airline'
+	-- use 'vim-airline/vim-airline'
 end)

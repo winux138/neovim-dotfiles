@@ -17,7 +17,8 @@ set expandtab
 set tabstop=4
 set shiftwidth=4
 
-set laststatus=3
+" set laststatus=3
+set laststatus=0
 
 set scrolloff=5
 
@@ -39,7 +40,7 @@ set termguicolors
 
 " let g:aqua_transparency = 1
 " let g:aquarium_style="dark"
-let g:airline_theme="base16_aquarium_dark"
+" let g:airline_theme="base16_aquarium_dark"
 " colorscheme aquarium
 
 colorscheme nofrils-dark
