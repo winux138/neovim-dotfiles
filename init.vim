@@ -39,10 +39,12 @@ set termguicolors
 
 " let g:aqua_transparency = 1
 " let g:aquarium_style="dark"
-" let g:airline_theme="base16_aquarium_dark"
+let g:airline_theme="base16_aquarium_dark"
 " colorscheme aquarium
 
 colorscheme nofrils-dark
+
+highlight Search		    guibg=#88C0D0
 
 highlight String		    guifg=#D0FF28
 
