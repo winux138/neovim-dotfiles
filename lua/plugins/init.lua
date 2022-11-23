@@ -31,6 +31,7 @@ return require('packer').startup(function()
 	use {'frenzyexists/aquarium-vim', as = 'aquarium'}
 	use 'https://github.com/Canop/patine'
     use 'robertmeta/nofrils'
+    use 'drsooch/gruber-darker-vim'
 
 	-- use 'vim-airline/vim-airline'
 end)
